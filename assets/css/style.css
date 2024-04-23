@@ -107,17 +107,20 @@ article {
   padding-right: 200rem;
 }
 
-#profile_desc .button {
+#profile_desc .github_button {
+  background-color: white;
+  line-height: 3rem;
   transition: 0.5s;
   font-size: 1.5rem;
   text-align: center;
   width: 25rem;
   height: 3rem;
+  border: 3px solid black;
   border-radius: 0.8rem;
   margin-bottom: 1rem;
 }
 
-#profile_desc .button:hover {
+#profile_desc .github_button:hover {
   transition: 0.5s;
   background-color: gray;
 }
