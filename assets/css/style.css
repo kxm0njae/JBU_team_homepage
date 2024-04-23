@@ -107,7 +107,7 @@ article {
   padding-right: 200rem;
 }
 
-#profile_desc button {
+#profile_desc .button {
   transition: 0.5s;
   font-size: 1.5rem;
   text-align: center;
@@ -117,7 +117,7 @@ article {
   margin-bottom: 1rem;
 }
 
-#profile_desc button:hover {
+#profile_desc .button:hover {
   transition: 0.5s;
   background-color: gray;
 }
